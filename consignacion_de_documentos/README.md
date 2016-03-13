@@ -7,7 +7,7 @@
 
 -PostgreSQL 9.1, 9.2, 9.3 ó 9.4.
 
-- IReport 5.6 ó superior.
+-IReport 5.6 ó superior.
 
 ![ScreenShot](https://github.com/ingrichardavid/JAVA/blob/master/consignacion_de_documentos/imagenes_de_ejemplos/1.PNG)
 ![ScreenShot](https://github.com/ingrichardavid/JAVA/blob/master/consignacion_de_documentos/imagenes_de_ejemplos/2.PNG)
