@@ -1,13 +1,13 @@
-# Consignación de documentos.
+# ConsignaciÃ³n de documentos.
+# Requerimientos.
 
-
-# Requerimientos mínimos.
-
--JDK 7 ó Superior.
+-JDK/JRE 7 Ã³ Superior.
 
 -IDE Netbeans 8.1
 
--PostgreSQL 9.4
+-PostgreSQL 9.1, 9.2, 9.3 Ã³ 9.4.
+
+- IReport 5.6 Ã³ superior.
 
 ![ScreenShot](https://github.com/ingrichardavid/JAVA/blob/master/consignacion_de_documentos/imagenes_de_ejemplos/1.PNG)
 ![ScreenShot](https://github.com/ingrichardavid/JAVA/blob/master/consignacion_de_documentos/imagenes_de_ejemplos/2.PNG)
