@@ -9,7 +9,9 @@
 # Configuración.
 
 - El usuario para conectarse a la base de datos es "postgre" sin clave de acceso.
-- Para solo ejecutar la aplicación: crear una carpeta llamada consignacion_de_documentos en C:\. Copiar las carpetas dist. 
+- El respaldo de la base de datos se encuentra en la carpeta backup.
+- Para solo ejecutar la aplicación: crear una carpeta llamada consignacion_de_documentos en C:\ . Copiar las carpetas dist y reportes dentro de estas y ejecutar el .jar que se encuentra dentro de la carpeta dist.
+- Para acceder entrar a la aplicación las credenciales básicas son: Usuario = Administrador / Clave: Administrador.
 
 ![ScreenShot](https://github.com/ingrichardavid/JAVA/blob/master/consignacion_de_documentos/imagenes_de_ejemplos/1.PNG)
 ![ScreenShot](https://github.com/ingrichardavid/JAVA/blob/master/consignacion_de_documentos/imagenes_de_ejemplos/2.PNG)
